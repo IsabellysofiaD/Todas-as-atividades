@@ -1,0 +1,106 @@
+h1 {
+   color:lightpink;
+}
+
+p{
+    color:deeppink
+}
+   
+ #paragrafoBicicletas {
+    color:hotpink
+ }
+ h2 {
+    color:lightpink 
+ }
+ .titulo-site {
+    color:lightpink;
+    font-size: 50-px;
+ }
+
+ .box {
+    width: 100px; 
+    height: 200px;
+    background-color: deeppink;
+    border: 5px solid rgb(161, 15, 117);
+    margin:15px 0px;
+    top: 50px;
+    left: 200px;
+ }
+ .box2 {
+   width: 500px; /*largura*/
+    height: 200px;
+    background-color: rgb(156, 63, 113);
+    border: 5px solid rgb(255, 0, 179);
+    margin:15px 0px; 
+    margin-bottom: 90px;
+    padding: 50px;
+
+     {
+    width: 200px; 
+    height: 200px;
+    background-color: rgb(255, 176, 218);
+    border: 5px solid rgb(154, 240, 252);
+    margin:20px 0px; 
+    margin-bottom: 200px;
+    padding: 100px;
+ }
+
+ .box3 {
+    width: 200px; 
+    height: 200px;
+    background-color: rgb(255, 176, 218);
+    border: 5px solid rgb(154, 240, 252);
+    margin:20px 0px; 
+    margin-bottom: 200px;
+    padding: 100px;
+ }
+   .box4 {
+    width: 200px; 
+    height: 290px;
+    background-color: rgb(204, 151, 253);
+    border: 5px solid rgb(0, 238, 255);
+    margin:15px 0px; 
+    margin-bottom: 1px;
+    padding: 80px;
+   }
+    
+ .box5 {
+   width: 200px; 
+    height: 200px;
+    background-color: rgb(251, 253, 119);
+    border: 5px solid rgb(255, 151, 224);
+    margin:15px 0px; 
+    margin-bottom: 90px;
+    padding: 50px; 
+ }  
+
+ .block {
+    display: block;
+  background: rgb(255, 0, 179);
+    padding: 100px;
+    margin-bottom: 100px;
+ }
+
+ .inline {
+    display: inline;
+    background: rgb(255, 115, 185);
+    padding: 5px;
+ }
+
+ inline-block {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+   background: pink;
+ }
+ .absolute {
+    position: absolute;
+    background: pink;
+    width: 100px;
+    height: 100px;
+    top: 20pc;
+    right: 200px;
+ }
+ 
+ 
+  

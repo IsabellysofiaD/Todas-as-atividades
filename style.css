@@ -1,0 +1,29 @@
+.pai{
+    position: relative;
+    width: 400px; 
+    height: 400px;
+    background-color: deeppink;
+    border: 5px solid rgb(161, 15, 117);
+    margin: 0px;
+}
+.filho1 {
+    position: absolute;
+    width: 100px; 
+    height: 100px;
+    background-color: rgb(241, 235, 150);
+    border: 5px solid rgb(228, 171, 255);
+    margin: 0px;
+    top: 50px;
+    right: 200px;
+
+}
+.filho2{
+    width: 100px; 
+    height: 100px;
+    background-color: rgb(7, 238, 255);
+    border: 5px solid rgb(0, 7, 112);
+    margin: 0px;
+    top: 50px;
+    right: 200px;
+
+}
